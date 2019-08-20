@@ -2,7 +2,7 @@
 Minor Project using Arduino/Node MUC using Telegram API integration  
 
 #### How to Start
-[Start Check the Website](https://www.arduino.cc/)
+[ Check the Website](https://www.arduino.cc/)
 
 [Download IDE](https://www.arduino.cc/en/Main/Software)
 			[***Windows***](https://www.microsoft.com/store/apps/9nblggh4rsd8?ocid=badge)
