@@ -9,7 +9,7 @@
 char ssid[] = "Nexus 5";             // your network SSID (name)  
 char pass[] = "12345??6789@@";            // your network key 
 // Initialize Telegram BOT  
-const char* BotToken = "850650840:AAHMW1rcTqdFoC3T-m27We5t2pkdREr1x0k";    // your Bot Teken  
+const char* BotToken = "XXXXXXXXXXXXXX";    // your Bot Teken  
 
 WiFiClientSecure  client;  
 TelegramBot bot(BotToken,client);  
