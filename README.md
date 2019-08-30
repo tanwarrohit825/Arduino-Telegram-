@@ -16,7 +16,7 @@ Minor Project using Arduino/Node MUC using Telegram API integration
     
   ## Change The Board setting
   Tool > Change the Board to (Generic ESP8266)
-  ## Run the Code 
+  ## Run the Code get the control 
 
 
 #### Main Links 
